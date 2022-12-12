@@ -1,5 +1,4 @@
-# Kali Linux latest with useful tools by tsumarios
-# Modified by har-at-usf
+# Kali Linux latest with useful tools
 FROM kalilinux/kali-rolling
 
 # Set working directory to /root

@@ -1,6 +1,6 @@
-# Kali Dockerfile
+# Shiva (Kali) Dockerfile
 
-Creates a Kali container in Docker. This configuration focuses more on application-security tools. The resulting container should run on all platforms, including macOS laptops with the M1 chip.
+Creates a custom Kali container in Docker. This configuration focuses more on application-security tools. The resulting container should run on all platforms, including macOS laptops with the M1 chip.
 
 Much of this is taken from here: https://github.com/tsumarios/Kali-Linux-Dockerfile. Other components were pulled from Corey J. Ball's book, "Hacking APIs."
 
